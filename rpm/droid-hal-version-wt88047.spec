@@ -11,6 +11,7 @@
 %define have_vibrator_native 1
 %define have_led 1
 
+
 %include droid-hal-version/droid-hal-version.inc
 
 # IMPORTANT if you want to comment out any macros in your .spec, delete the %
